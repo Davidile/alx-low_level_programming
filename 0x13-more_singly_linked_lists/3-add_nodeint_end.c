@@ -1,6 +1,5 @@
- (30 sloc)  655 Bytes
 #include "lists.h"
-
+                      
 /**
  * add_nodeint_end - Adds a new node at the end of a listint_t list.
  *
